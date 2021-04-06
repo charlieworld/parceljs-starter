@@ -34,3 +34,11 @@ sw.*
 
 # Vim swap files
 *.swp
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Mac stuff
+.DS_Store
+src/.DS_Store
